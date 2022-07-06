@@ -1,0 +1,18 @@
+colorPrimary #1976D2
+
+colorSuccess #22BB33
+
+colorError #ff3333
+
+colorOrange #FFA500
+
+colorKesari #FF9933
+
+
+
+# Google Color Hex Code
+
+GoogleBlue #4885ed
+GoogleRed #db3236
+GoogleYellow #f4c20d
+GoogleGreen #3cba54

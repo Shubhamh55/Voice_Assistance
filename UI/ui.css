@@ -1,0 +1,7 @@
+QWidget#centralwidget{
+    background-color: qradialgradient(spread:pad, cx:0.5, cy:0.5, radius:1, fx:0.505, fy:0.5, stop:0 rgba(39, 60, 117, 255), stop:1 rgba(0, 0, 0, 255));
+    
+    }
+
+
+color: #044DF5

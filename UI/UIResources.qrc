@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>mic.png</file>
+    <file>GamingUI-Recovered.png</file>
+  </qresource>
+</RCC>

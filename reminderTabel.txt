@@ -1,0 +1,1 @@
+CREATE TABLE reminder(reminder_name varchar(20), reminder_day text(10), reminder_time varchar(10), reminder_state text(10));
